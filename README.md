@@ -13,9 +13,6 @@ Use the app to trigger lighting modes, adjust effects, and manage the device ove
 - [Quick start (App)](#quick-start-app)
 - [Quick start (Arduino)](#quick-start-arduino)
 - [Configuration](#configuration)
-- [Build & release](#build--release)
-- [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
